@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-  const booksEndpoint = 'https://raw.githubusercontent.com/prof-lucassilva/api-books/main/livros.json';
+  const booksEndpoint = 'books.json';
   const bookList = document.getElementById('book-list');
 
   if (!bookList) {
@@ -27,11 +27,11 @@ document.addEventListener('DOMContentLoaded', function () {
         bookElement.innerHTML = `
           <img src="${book.imagem}" alt="Capa do livro ${book.titulo}" class="w-full h-64 object-cover">
           <div class="p-5 flex flex-col flex-grow">
-            <h3 class="text-lg font-semibold text-sky-700 mb-1">${book.titulo}</h3>
+            <h3 class="text-lg font-semibold text-amber-700 mb-1">${book.titulo}</h3>
             <p class="text-sm text-slate-500 mb-2">Por: ${book.autor}</p>
             <p class="text-xs text-slate-400 mb-1">Gênero: ${book.genero} - ${book.paginas} páginas</p>
             <p class="text-sm text-slate-600 leading-relaxed mb-3 flex-grow">${book.resumo}</p>
-            <a href="#" target="_blank" rel="noopener noreferrer" class="mt-auto self-start bg-sky-500 text-white py-2 px-4 rounded-md text-sm font-medium hover:bg-sky-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-sky-400 transition-all duration-200 transform hover:-translate-y-0.5 active:translate-y-0">
+            <a href="#" target="_blank" rel="noopener noreferrer" class="mt-auto self-start bg-amber-500 text-white py-2 px-4 rounded-md text-sm font-medium hover:bg-amber-600 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-amber-400 transition-all duration-200 transform hover:-translate-y-0.5 active:translate-y-0">
               Detalhes
             </a>
           </div>
