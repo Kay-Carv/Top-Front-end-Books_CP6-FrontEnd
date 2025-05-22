@@ -4,6 +4,8 @@
 
 **Cada livro foi selecionado** por sua relevância e capacidade de fornecer conhecimento prático e teórico, ajudando profissionais a aprimorarem suas habilidades e aprofundarem seu entendimento sobre desenvolvimento web.
 
+Acesso a página: Clique aqui
+
 ## Objetivo do Projeto
 
 Este projeto se iniciou após uma **atribuição avaliativa** da máteria de **``Front-End``** na **FIAP** (Faculdade de Informática e Adiministração Paulista) onde a proposta era criar uma "Page Top" sobre Front-End Books utilizando [**TailwindCSS**](https://tailwindcss.com/docs/installation/play-cdn). 
@@ -13,7 +15,15 @@ Os requisitos para essa entrega eram: **desing responsivo**, alinhamentos, cards
 
 ## Tecnologias utilizadas
 - **[Tailwind CSS](https://tailwindcss.com/docs/installation/play-cdn)**
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- Json
 
 ## Links úteis
 
-## Desenvolvedor
+Git hub pages: Clique aqui
+
+Me siga no Git Hub: [![Custom Badge](https://img.shields.io/badge/GitHub-Perfil-blue?style=for-the-badge&logo=github)](https://github.com/Kay-Carv)
+
+Acompanhe a organização da qual faço parte para ver mais projetos: [![Custom Badge](https://img.shields.io/badge/Code-Nexus-blue?style=for-the-badge&logo=github)](https://github.com/GrupoCodeNexus) 
+
+<!-- ## Desenvolvedor -->
