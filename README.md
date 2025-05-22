@@ -4,7 +4,7 @@
 
 **Cada livro foi selecionado** por sua relevância e capacidade de fornecer conhecimento prático e teórico, ajudando profissionais a aprimorarem suas habilidades e aprofundarem seu entendimento sobre desenvolvimento web.
 
-Acesso a página: Clique aqui
+**Acesso a página**: [**Clique aqui**](https://kay-carv.github.io/Top-Front-end-Books_CP6-FrontEnd/)
 
 ## Objetivo do Projeto
 
@@ -20,9 +20,11 @@ Os requisitos para essa entrega eram: **desing responsivo**, alinhamentos, cards
 
 ## Links úteis
 
-Git hub pages: Clique aqui
+**Git hub pages**: [**Clique aqui**](https://kay-carv.github.io/Top-Front-end-Books_CP6-FrontEnd/)
 
-Me siga no Git Hub: [![Custom Badge](https://img.shields.io/badge/GitHub-Perfil-blue?style=for-the-badge&logo=github)](https://github.com/Kay-Carv)
+Acesso ao **repositório original**: **[Clique aqui](https://github.com/Kay-Carv/Top-Front-end-Books_CP6-FrontEnd)**
+
+**Me siga** no Git Hub: [![Custom Badge](https://img.shields.io/badge/GitHub-Perfil-blue?style=for-the-badge&logo=github)](https://github.com/Kay-Carv)
 
 Acompanhe a organização da qual faço parte para ver mais projetos: [![Custom Badge](https://img.shields.io/badge/Code-Nexus-blue?style=for-the-badge&logo=github)](https://github.com/GrupoCodeNexus) 
 
